@@ -1,4 +1,4 @@
-# GDG Babcock Data Track - Semester Wrapped
+# GDG Babcock Data Track - Chat Analysis
 
 This notebook analyzes member activity in the GDG (Google Developer Group) Babcock Chapter’s data community forums. It provides insights into engagement levels, message trends, and identifies top contributors. 
 
